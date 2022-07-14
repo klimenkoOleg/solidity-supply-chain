@@ -1,3 +1,3 @@
-This is reference implementation of ERC20 based blockchain token for Supply Chain.
+This is reference implementation of ERC20 compatible blockchain contract Supply Chain.
 
 Uses Etherium blockchain. 
